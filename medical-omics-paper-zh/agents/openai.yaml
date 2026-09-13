@@ -1,0 +1,4 @@
+interface:
+  display_name: "医学与组学文献精读"
+  short_description: "保留原图的中文译本，详解主题结论创新与技术路线的独立精读报告"
+  default_prompt: "请使用 $medical-omics-paper-zh 精读这篇论文，交付保留原图和中文图注的全文译本与独立精读报告两份 Word。"
