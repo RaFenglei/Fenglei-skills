@@ -1,0 +1,7 @@
+interface:
+  display_name: "Harness-skills"
+  short_description: "按当前API与benchmark重设多模型分工、独立复审和可选记忆"
+  default_prompt: "使用 $harness-skills，根据本项目现有API与最新benchmark重新设计并运行合适的harness。"
+policy:
+  allow_implicit_invocation: true
+
