@@ -10,6 +10,12 @@ RaFenglei 的个人 Codex skills 仓库。每个 skill 都放在独立的同级�
 - `evolution-omics-paper-zh`：新基因、进化与多组学方向加强版。
 - `medical-omics-paper-zh`：医学与组学方向加强版。
 
+| Skill | 适用重点 | 说明 |
+|---|---|---|
+| [academic-paper-zh](academic-paper-zh/) | 跨学科通用精读 | [README](academic-paper-zh/README.md) · [SKILL.md](academic-paper-zh/SKILL.md) |
+| [evolution-omics-paper-zh](evolution-omics-paper-zh/) | 新基因、进化基因组学和调控创新 | [README](evolution-omics-paper-zh/README.md) · [SKILL.md](evolution-omics-paper-zh/SKILL.md) |
+| [medical-omics-paper-zh](medical-omics-paper-zh/) | 医学、临床和组学证据评价 | [README](medical-omics-paper-zh/README.md) · [SKILL.md](medical-omics-paper-zh/SKILL.md) |
+
 默认输出两份 Word：中文全文译本、独立精读报告；中英逐段对照为可选模式。报告包含主题、主要结论、创新点、技术路线与配图说明、数量随论文决定的“核心问题及资料解答”、详细推荐文献，以及 3 个优先科学问题和 10 个发散问题。正文默认 1.5 倍行距，图注与书目 1.2 倍。
 
 三个目录均可单独安装，保持各自 `SKILL.md`、`references/`、`assets/`、`scripts/` 的相对路径。
