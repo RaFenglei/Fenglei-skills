@@ -1,0 +1,9 @@
+.env*
+!.env.example
+.private/
+__pycache__/
+*.pyc
+.harness/
+*.sqlite*
+*.log
+
